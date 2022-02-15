@@ -10,4 +10,8 @@ Clean Code: https://github.com/ryanmcdermott/clean-code-javascript
 
 ## Videor
 
+Return i funktioner: https://www.youtube.com/watch?v=FioqUnOGlq8
+
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/Ehbklf2jDTBHn7SQhZDzeEcBMvlI4fe9U2C60OX_eTQD4Q?e=ckuOV5
